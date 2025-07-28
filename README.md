@@ -17,7 +17,7 @@ The formation of natural patterns such as those on seashells, snowflakes, or ani
  - Implementation of custom transition rules inspired by lizard scale growth.
  - Emphasis on local interaction leading to emergent complex patterns.
  - Integration of biological accuracy and computational efficiency.
- - Use of Python for simulation and visualization.
+ - Use of Java for simulation and visualization.
 
 ## Challenges
  - Defining a rule set that prooduce biologically realistic patterns while remaining computationally simple.
