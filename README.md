@@ -20,9 +20,9 @@ The formation of natural patterns such as those on seashells, snowflakes, or ani
  - Use of Java for simulation and visualization.
 
 ## Challenges
- - Defining a rule set that prooduce biologically realistic patterns while remaining computationally simple.
+ - Defining a rule set that produce biologically realistic patterns while remaining computationally simple.
  - Managing performance issues related to memory and processing time, especially on larger grids.
- - Ensuring consistent, stable pattern evolution without unintended artifacts or early stagnation.
+ - Ensuring consistent, stable pattern evolution without the patterns getting stuck or showing unwanted glitches. 
  - Comparing simulated results to biological data and photographs of *Timon lepidus* to assess accuracy and improve the model.
 
 ## Acknowledgements
