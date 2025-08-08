@@ -7,7 +7,7 @@ This project uses cellular automata to simulate the dynamic skin scale patterns 
 The formation of natural patterns such as those on seashells, snowflakes, or animal coats, has long fascinated both biologists and mathematicians. Cellular automata is a mathematical modeling technique that uses grids of discrete cells updated by local rules. This method provides a powerful framework for studying how complex patterns emerge. Building on the work of Manukyan et al. in *A Living Mesoscopic Cellular Automaton Made of Skin Scales* (2017) this project applies cellular automata to replicate the striking scale arrangements observed in *Timon lepidus*, a species known for its mosaic-like skin patterns. By simulating the rules that govern cell behavior and interaction, the model demonstrates how biologically realistic structures can form through simple, local interactions. This work builds on research in computational biology and contributes to the broader understanding of natural pattern formation. 
 
 ## Features
- - Callular automata simulation on a 2D hexagonal grid
+ - Cellular automata simulation on a 2D hexagonal grid
  - Scale coloring (black/green) based on biological neighbor rules
  - Frequency tracking of neighbor relationships
  - Support for multi-iteration simulation
